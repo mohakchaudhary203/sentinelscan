@@ -2,7 +2,7 @@
 name = "sentinelscan"
 version = "1.0.0"
 description = "Automated web vulnerability scanner covering common OWASP Top 10 misconfigurations."
-authors = [{ name = "Mohak Chaudhary (GhostHowl)" }]
+authors = [{ name = "Mohak Chaudhary" }]
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
